@@ -52,3 +52,27 @@
 
 ![eduardogsouz's Stats](https://github-readme-stats.vercel.app/api?username=eduardogsouz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![eduardogsouz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogsouz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+<br>
+
+# 
+
+<br>
+
+<p align="center">Thanks for visiting !!</p>
+
+<br>
+
+<picture>
+          <img alt="github stats" src="./.github/result.png" width="100%">
+</picture>
+
+<br>
+
+# 
+
+<br>
+
+  <a href = "eduardogoncal.souza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/eduardo-goncalves-souza/">(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
