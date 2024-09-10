@@ -9,7 +9,7 @@
 
 ## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhyOXJzMmpldzRvODJycW04MHdoNHpqZDg2azBpMDI4NDRjcWlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C1uvq0i5iTQyi26swi/giphy.webp" width="30"></picture> **About me**
 
-- <b>Coming!!</b>
+- <b>Coming Soon!!</b>
 
 <br>
 
@@ -46,7 +46,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
+<br>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyd2R5YmdkdjQ5c2todG5xbHNmZ2xwbGt4ZGN1eG93bmNtZGN2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9A4VXopO66WMraBtss/giphy.webp" width="35"><b> Github Statistics </b>
 
@@ -54,25 +54,20 @@
 ![eduardogsouz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogsouz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
-<br>
-
-# 
 
 <br>
 
-<p align="center">Thanks for visiting !!</p>
+# <img src="https://readme-typing-svg.demolab.com?font=Lexend&size=25&pause=1000&vCenter=true&width=435&lines=Connect+With+Me!" alt="Typing SVG" />
 
 <br>
+
+  <a href = "https://www.linkedin.com/in/eduardo-goncalves-souza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+ #
+
+ <br>
 
 <picture>
           <img alt="github stats" src="./.github/result.png" width="100%">
 </picture>
-
-<br>
-
-# 
-
-<br>
-
-  <a href = "eduardogoncal.souza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/eduardo-goncalves-souza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
