@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Eduardo </b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJyczJwdXB4YjEyNzR3dmFmYnBhcGl4bDJyemxveGR4bWxmaTl5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dAFpCsmp0gZeq45SSf/giphy.webp" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Eduardo </b><img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=eduardogonsouza&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF" width="35"></h1>
 
 
 <picture decoding="async" loading="lazy">
@@ -50,8 +50,8 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyd2R5YmdkdjQ5c2todG5xbHNmZ2xwbGt4ZGN1eG93bmNtZGN2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9A4VXopO66WMraBtss/giphy.webp" width="35"><b> Github Statistics </b>
 
-![eduardogsouz's Stats](https://github-readme-stats.vercel.app/api?username=eduardogsouz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![eduardogsouz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogsouz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![eduardogonsouza's Stats](https://github-readme-stats.vercel.app/api?username=eduardogonsouza&theme=react&show_icons=true&hide_border=true&count_private=true)
+![eduardogonsouza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogonsouza&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 
 
