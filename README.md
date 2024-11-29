@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi , I'm Eduardo </b><img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=eduardogonsouza&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Eduardo </b><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJyczJwdXB4YjEyNzR3dmFmYnBhcGl4bDJyemxveGR4bWxmaTl5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dAFpCsmp0gZeq45SSf/giphy.webp" width="35"></h1>
 
 
 <picture decoding="async" loading="lazy">
-          <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=eduardogsouz&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF&hide=avatar">
+          <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=eduardogonsouza&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF">
 </picture>
 
 <br>
