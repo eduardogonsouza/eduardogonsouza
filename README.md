@@ -2,7 +2,7 @@
 
 
 <picture decoding="async" loading="lazy">
-          <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=eduardogonsouza&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF">
+          <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=eduardogonsouza&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF&hide=issues">
 </picture>
 
 <br>
