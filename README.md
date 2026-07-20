@@ -22,7 +22,9 @@
 
 I am a Full Stack developer specializing in the creation and maintenance of SaaS products, including APIs, web platforms, and mobile applications.
 
-On the back-end, I primarily use **Go, Gin, PostgreSQL, and PGX**. On the front-end, I use **TypeScript, React, React Native, Expo, Vue.js, Vite, and Tailwind CSS** to build experiences that adapt to and maintain consistency across various platforms.
+On the back-end, I primarily use **Go, Gin, PostgreSQL, and PGX**. 
+
+On the front-end, I use **TypeScript, React, React Native, Expo, Vue.js, Vite, and Tailwind CSS** to build experiences that adapt to and maintain consistency across various platforms.
 
 My experience spans the development of end-to-end features—from integrating external services and creating data-driven workflows to optimizing application performance and reliability. I value clean code, maintainable architecture, robust integrations, and products that address real-world needs.
 
